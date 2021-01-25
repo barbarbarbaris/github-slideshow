@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+    Buralarda *neler* olir **gardaaaaş**?
 Use the left arrow to go back!
